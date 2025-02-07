@@ -6,6 +6,8 @@
 - 📫 How to reach me: [Email](mailto:ariyapratamaadjienugroho@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ariya-pratama-01b873217/) | [GitHub](https://github.com/ariyapratma)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding with Laravel, you can find me exploring nature trails or experimenting with new recipes in the kitchen.
+- ### 📊 GitHub Stats:
+![JohnDoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariyapratma&show_icons=true&theme=radical)
 
 <!---
 ariyapratma/ariyapratma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
