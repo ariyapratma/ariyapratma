@@ -3,7 +3,7 @@
 I'm a passionate web developer who loves building robust and scalable applications using modern technologies.
 
 ## 👀 About Me  
-- 💡 Enthusiastic about **Laravel, React, Vue.js, Angular, and Express.js**  
+- 💡 Enthusiastic about **Laravel, React, Next.js, Angular, and Express.js**  
 - 🔥 Currently learning **advanced Laravel techniques & full-stack development**  
 - 🤝 Open to collaborating on **open-source Laravel projects**  
 - 📩 Reach me at: [Email](mailto:ariyapratamaadjienugroho@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ariya-pratama-01b873217/) | [GitHub](https://github.com/ariyapratma)
