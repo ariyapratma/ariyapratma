@@ -22,7 +22,7 @@ Software Engineer / Full-Stack Developer
 ### Connect
 
 - **Email:** [ariyapratamaadjienugroho@gmail.com](mailto:ariyapratamaadjienugroho@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ariya-pratama-01b873217](https://www.linkedin.com/in/ariyapratamaadjienugroho/)
+- **LinkedIn:** [linkedin.com/in/ariyapratamaadjienugroho/](https://www.linkedin.com/in/ariyapratamaadjienugroho/)
 - **GitHub:** [github.com/ariyapratma](https://github.com/ariyapratma)
 
 ---
